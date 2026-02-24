@@ -216,13 +216,13 @@ footer{
             </div>
 
             <div class="card">
-                <h3>Portfolio Website</h3>
-                <p>This responsive portfolio website built using HTML & CSS.</p>
+                <h3>One page Website</h3>
+                <p>This website built using HTML & CSS.</p>
             </div>
 
             <div class="card">
                 <h3>Web App</h3>
-                <p>A small application project for managing daily tasks.</p>
+                <p> A bootstrap4_project.</p>
             </div>
         </div>
     </div>
